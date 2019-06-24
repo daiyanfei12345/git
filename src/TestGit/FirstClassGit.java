@@ -19,4 +19,8 @@ public class FirstClassGit {
         System.out.println("................");
         System.out.println("................");
     }
+
+    public void test(){
+        System.out.println("fawef");
+    }
 }
